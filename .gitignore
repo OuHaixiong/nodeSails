@@ -3,4 +3,5 @@
 /.buildpath
 /.settings/org.eclipse.wst.common.project.facet.core.xml
 /node_modules
+/.settings
 
